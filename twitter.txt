@@ -1,0 +1,34 @@
+#Reverse Proxy for Twitter IPv6
+#Use on your own risks
+
+address=/twitter.com/www.twttr.com/translate.twttr.com/2001:778:0:ffff:64:0:c73b:9452
+address=/ads.twitter.com/oauth.twitter.com/scribe.twitter.com/2001:778:0:ffff:64:0:c73b:9454
+address=/advertising.twitter.com/2404:6800:8005::79
+address=/assets0.twitter.com/assets1.twitter.com/assets2.twitter.com/assets3.twitter.com/assets4.twitter.com/static.twitter.com/2001:778:0:ffff:64:0:c73b:945c
+address=/api.twitter.com/2001:778:0:ffff:64:0:c73b:9457
+address=/cdn.api.twitter.com/p.twimg.com/2001:778:0:ffff:64:0:215:5d37
+address=/urls.api.twitter.com/2001:778:0:ffff:64:0:5c7a:ce32
+address=/dev.twitter.com/2001:778:0:ffff:64:0:c73b:9589
+address=/fly.twitter.com/help.twitter.com/m.twitter.com/media.twitter.com/business.twitter.com/static-site.twitter.com/2001:778:0:ffff:64:0:c73b:94d4
+address=/mobile.twitter.com/2001:778:0:ffff:64:0:c73b:9460
+address=/anywhere.platform.twitter.com/platform0.twitter.com/2001:778:0:ffff:64:0:5c7a:ce20
+address=/platform1.twitter.com/2001:778:0:ffff:64:0:5c7a:ce29
+address=/platform2.twitter.com/2001:778:0:ffff:64:0:5c7a:ce28
+address=/platform3.twitter.com/2001:778:0:ffff:64:0:5c7a:ce21
+address=/search.twitter.com/2001:778:0:ffff:64:0:c73b:94c9
+address=/status.twitter.com/2001:778:0:ffff:64:0:4820:e708
+address=/stream.twitter.com/2001:778:0:ffff:64:0:c73b:948a
+address=/support.twitter.com/2001:778:0:ffff:64:0:c73b:94ce
+address=/userstream.twitter.com/2001:778:0:ffff:64:0:c73b:948b
+address=/upload.twitter.com/2001:778:0:ffff:64:0:c73b:94d5
+address=/t.co/2001:778:0:ffff:64:0:c73b:940c
+address=/twttr.com/2001:778:0:ffff:64:0:c73b:940a
+address=/twimg0-a.akamaihd.net/2001:778:0:ffff:64:0:5c7a:32aa
+address=/a0.twimg.com/2001:778:0:ffff:64:0:5c7a:3290
+address=/a1.twimg.com/2001:778:0:ffff:64:0:5c7a:32b0
+address=/a2.twimg.com/2001:778:0:ffff:64:0:5c7a:32a1
+address=/a3.twimg.com/2001:778:0:ffff:64:0:5c7a:32bb
+address=/a4.twimg.com/si0.twimg.com/si2.twimg.com/si4.twimg.com/widgets.twimg.com/2001:778:0:ffff:64:0:b8a9:4f21
+address=/a5.twimg.com/2001:778:0:ffff:64:0:5c7a:32b8
+address=/s.twimg.com/2001:778:0:ffff:64:0:cdfb:db19
+address=/si1.twimg.com/si3.twimg.com/si5.twimg.com2001:778:0:ffff:64:0:215:6f90
